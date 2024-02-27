@@ -10,7 +10,7 @@ Game Over logic with the option to restart the game.
 
 # Installation
 Clone this repository and import it into Android Studio:
-
+https://github.com/miyakibanas/SnakeGame.git
 
 # Usage
 To play the game, launch the application. Swipe on the screen/use mouse to change the snake's direction. Try to eat as many apples as possible without colliding with the walls or the snake's body.
